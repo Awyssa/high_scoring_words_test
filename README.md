@@ -1,5 +1,7 @@
 # high_scoring_words_test
 
+File name = test_highscoringwords.py
+
 ```
 import unittest
 from highscoringwords import HighScoringWords
